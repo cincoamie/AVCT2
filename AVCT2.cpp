@@ -2,6 +2,8 @@
 #include "E101.h"
 using namespace std;
 
+// Contributors to coding: Marino Doyle, Jacques Terblanche, Amiel Cinco
+
 char address[15] = {'1','3','0','.','1','9','5','.','6','.','1','9','6'};
 char request[24] = {'P','l','e','a','s','e'};
 int port = 1024; 
